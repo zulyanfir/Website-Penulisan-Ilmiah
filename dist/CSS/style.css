@@ -237,8 +237,7 @@ body {
     }
 
     /* Responsive iframe */
-    .places iframe,
-    .statistics iframe {
+    .dashboard iframe {
         width: 100%;
         height: 450px;
     }
@@ -250,8 +249,7 @@ body {
     }
 
     /* Responsive iframe */
-    .places iframe,
-    .statistics iframe {
+    .dashboard iframe {
         width: 100%;
         height: 350px;
     }
@@ -263,8 +261,7 @@ body {
     }
 
     /* Responsive iframe */
-    .places iframe,
-    .statistics iframe {
+    .dashboard iframe {
         width: 100%;
         height: 250px;
     }
